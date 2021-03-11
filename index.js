@@ -83,6 +83,8 @@ let number2 = 7
 const newTotal = sum(number1, number2)
 console.log(newTotal)
 
+console.log('test')
+
 // DON'T USE THIS SYNTAX
 // function test(par1) {
 //     console.log(par1)
@@ -112,7 +114,7 @@ const differentBarks = function(numberOfBarks) {
 
 differentBarks(6)
 
-let switchStudent = 'Stefano'
+let switchStudent = 'Gregorio'
 
 switch(switchStudent) {
     case 'Stefano':
