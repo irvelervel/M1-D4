@@ -83,7 +83,7 @@ let number2 = 7
 const newTotal = sum(number1, number2)
 console.log(newTotal)
 
-console.log('test')
+console.log('test2')
 
 // DON'T USE THIS SYNTAX
 // function test(par1) {
